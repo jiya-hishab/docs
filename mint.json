@@ -46,6 +46,12 @@
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "API Reference",
+      "openapi": "https://luxury-phoenix-c1881f.netlify.app/ai-agents/ai-agent-get.yaml",
+      "url": "api-reference",
+      "icon": "square-terminal"
     }
   ],
   "navigation": [
