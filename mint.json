@@ -49,6 +49,7 @@
     },
     {
       "name": "API Reference",
+      "openapi": "/openapi_specs/ai-agents/ai-agent-get.yaml",
       "url": "api-reference",
       "icon": "square-terminal"
     }
