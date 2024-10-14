@@ -49,7 +49,6 @@
     },
     {
       "name": "API Reference",
-      "openapi": "https://luxury-phoenix-c1881f.netlify.app/ai-agents/ai-agent-get.yaml",
       "url": "api-reference",
       "icon": "square-terminal"
     }
